@@ -2,26 +2,26 @@
   "data": [
     {
       "id": 1,
-      "name": "name",
-      "author": "author",
+      "name": "paşa",
+      "author": "yıldız",
       "page": "page"
     },
     {
       "id": 2,
-      "name": "name",
-      "author": "author",
+      "name": "pala",
+      "author": "asım",
       "page": "page"
     },
     {
       "id":3,
-      "name": "name",
-      "author": "author",
+      "name": "kral",
+      "author": "polat",
       "page": "page"
     }, 
     {
       "id":4,
-      "name": "name",
-      "author": "author",
+      "name": "kalem",
+      "author": "iskender",
       "page": "page"
     }
   ]
