@@ -1,25 +1,77 @@
 {
-  "data": [
+  "readingbooksData": [
     {
       "id": 1,
       "name": "paşa",
       "author": "yıldız",
-      "page": "page"
+      "page": "100"
     },
     {
       "id": 2,
       "name": "pala",
       "author": "asım",
-      "page": "page"
+      "page": "200"
     },
     {
       "id":3,
       "name": "kral",
       "author": "polat",
-      "page": "page"
+      "page": "300"
     }, 
     {
       "id":4,
+      "name": "kalem",
+      "author": "iskender",
+      "page": "400"
+    }
+  ],
+  "readedbooksData": [
+    {
+      "id": 5,
+      "name": "kravat",
+      "author": "kısım",
+      "page": "page"
+    },
+    {
+      "id": 6,
+      "name": "pala",
+      "author": "asım",
+      "page": "page"
+    },
+    {
+      "id":7,
+      "name": "kral",
+      "author": "polat",
+      "page": "page"
+    }, 
+    {
+      "id":8,
+      "name": "kalem",
+      "author": "iskender",
+      "page": "page"
+    }
+  ],
+  "toreadbooksData": [
+    {
+      "id": 9,
+      "name": "ayakkabı",
+      "author": "yıldız",
+      "page": "page"
+    },
+    {
+      "id": 10,
+      "name": "pala",
+      "author": "asım",
+      "page": "page"
+    },
+    {
+      "id":11,
+      "name": "kral",
+      "author": "polat",
+      "page": "page"
+    }, 
+    {
+      "id":12,
       "name": "kalem",
       "author": "iskender",
       "page": "page"
